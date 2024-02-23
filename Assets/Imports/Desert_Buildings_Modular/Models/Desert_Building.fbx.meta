@@ -29,7 +29,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Desert_Building
-    second: {fileID: 2100000, guid: 481a30d3a24694c479e9ba54f4979107, type: 2}
+    second: {fileID: 2100000, guid: 6f3e4af807b1c2e449fde7af5f97a9b4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
